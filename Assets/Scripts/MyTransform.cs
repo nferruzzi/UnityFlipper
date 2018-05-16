@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Transform : MonoBehaviour {
+public class MyTransform : MonoBehaviour {
 
     [SerializeField]
     float speed = 180f;
