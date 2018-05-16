@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 238f5bdb495e34884881e4d243f79be9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Angle_L
+    100002: Angle_R_0
+    100004: Angle_R_1
+    100006: Angle_Top_L_0
+    100008: Angle_Top_L_1
+    100010: Angle_Top_R_0
+    100012: Angle_Top_R_1
+    100014: Border
+    100016: Plane
+    100018: //RootNode
+    100020: Tunnel_0
+    100022: Tunnel_1
+    100024: Wall_L1_0
+    100026: Wall_L1_1
+    100028: Wall_L2_0
+    100030: Wall_L2_1
+    100032: Table_root
+    400000: Angle_L
+    400002: Angle_R_0
+    400004: Angle_R_1
+    400006: Angle_Top_L_0
+    400008: Angle_Top_L_1
+    400010: Angle_Top_R_0
+    400012: Angle_Top_R_1
+    400014: Border
+    400016: Plane
+    400018: //RootNode
+    400020: Tunnel_0
+    400022: Tunnel_1
+    400024: Wall_L1_0
+    400026: Wall_L1_1
+    400028: Wall_L2_0
+    400030: Wall_L2_1
+    400032: Table_root
+    2100000: Default_Prototype
+    2300000: Angle_L
+    2300002: Angle_R_0
+    2300004: Angle_R_1
+    2300006: Angle_Top_L_0
+    2300008: Angle_Top_L_1
+    2300010: Angle_Top_R_0
+    2300012: Angle_Top_R_1
+    2300014: Border
+    2300016: Plane
+    2300018: Tunnel_0
+    2300020: Tunnel_1
+    2300022: Wall_L1_0
+    2300024: Wall_L1_1
+    2300026: Wall_L2_0
+    2300028: Wall_L2_1
+    3300000: Angle_L
+    3300002: Angle_R_0
+    3300004: Angle_R_1
+    3300006: Angle_Top_L_0
+    3300008: Angle_Top_L_1
+    3300010: Angle_Top_R_0
+    3300012: Angle_Top_R_1
+    3300014: Border
+    3300016: Plane
+    3300018: Tunnel_0
+    3300020: Tunnel_1
+    3300022: Wall_L1_0
+    3300024: Wall_L1_1
+    3300026: Wall_L2_0
+    3300028: Wall_L2_1
+    4300000: Angle_L
+    4300002: Angle_R_0
+    4300004: Angle_R_1
+    4300006: Angle_Top_L_0
+    4300008: Angle_Top_L_1
+    4300010: Angle_Top_R_0
+    4300012: Angle_Top_R_1
+    4300014: Border
+    4300016: Plane
+    4300018: Tunnel_0
+    4300020: Tunnel_1
+    4300022: Wall_L1_0
+    4300024: Wall_L1_1
+    4300026: Wall_L2_0
+    4300028: Wall_L2_1
+    6400000: Angle_L
+    6400002: Angle_R_0
+    6400004: Angle_R_1
+    6400006: Angle_Top_L_0
+    6400008: Angle_Top_L_1
+    6400010: Angle_Top_R_0
+    6400012: Angle_Top_R_1
+    6400014: Border
+    6400016: Plane
+    6400018: Tunnel_0
+    6400020: Tunnel_1
+    6400022: Wall_L1_0
+    6400024: Wall_L1_1
+    6400026: Wall_L2_0
+    6400028: Wall_L2_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Prototype
+    second: {fileID: 2100000, guid: 71351cb01e6fc4c638e4ce20414e8fc4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 1
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
