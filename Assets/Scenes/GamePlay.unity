@@ -170,6 +170,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2cb399099b9ea422489daf01c493045a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  updateInterval: 0.5
 --- !u!1001 &108865151
 Prefab:
   m_ObjectHideFlags: 0
@@ -339,7 +340,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4472772498147874, guid: 56795b7235e004511aace5a35c8b76d6, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 8
+      value: 4.24
       objectReference: {fileID: 0}
     - target: {fileID: 4472772498147874, guid: 56795b7235e004511aace5a35c8b76d6, type: 2}
       propertyPath: m_LocalPosition.z
@@ -364,6 +365,21 @@ Prefab:
     - target: {fileID: 4472772498147874, guid: 56795b7235e004511aace5a35c8b76d6, type: 2}
       propertyPath: m_RootOrder
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 215241653084378114, guid: 56795b7235e004511aace5a35c8b76d6,
+        type: 2}
+      propertyPath: m_BoxOffset.z
+      value: 3.5336056
+      objectReference: {fileID: 0}
+    - target: {fileID: 215241653084378114, guid: 56795b7235e004511aace5a35c8b76d6,
+        type: 2}
+      propertyPath: m_BoxSize.y
+      value: 7.895836
+      objectReference: {fileID: 0}
+    - target: {fileID: 215241653084378114, guid: 56795b7235e004511aace5a35c8b76d6,
+        type: 2}
+      propertyPath: m_BoxOffset.y
+      value: -1.6308365
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 56795b7235e004511aace5a35c8b76d6, type: 2}
